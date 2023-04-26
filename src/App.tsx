@@ -3,6 +3,7 @@ import Hero from './components/Hero'
 import ListaVagas from './containers/ListaVagas'
 
 import './global.css'
+import styled from 'styled-components'
 
 function App() {
   return (
